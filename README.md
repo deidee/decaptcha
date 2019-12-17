@@ -10,8 +10,8 @@
 
 ### Tekenreeks
 
-![](https://deidee.com/logo.png?str=sf87c&size=6)
+![sf87c](https://deidee.com/logo.png?str=sf87c&size=6)
 
 ### Rekensom
 
-![](https://deidee.com/logo.png?str=5%20%2b%202%20%3d&size=6)
+![5 + 2 =](https://deidee.com/logo.png?str=5%20%2b%202%20%3d&size=6)
