@@ -5,6 +5,8 @@
 - [ ] Reeks willekeurige letters en cijfers die moet worden overgenomen.
 - [ ] Willekeurige rekensom die moet worden opgelost.
 - [ ] Verschillende stijlen die kunnen worden geconfigureerd.
+- [ ] Output naar ``canvas``.
+- [ ] Output naar gekleurde divjes (voorstel van Nico).
 
 ## Voorbeelden
 
